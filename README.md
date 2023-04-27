@@ -1,6 +1,6 @@
 # TomStick
 
-[![PlatformIO Registry](https://badges.registry.platformio.org/packages/dhanabhon/library/TomStick.svg)][![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+[![PlatformIO Registry](https://badges.registry.platformio.org/packages/dhanabhon/library/TomStick.svg)](https://registry.platformio.org/libraries/dhanabhon/TomStick) [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 A TomStick library is an Arduino library for simply controlling the axes of the joystick.
 
