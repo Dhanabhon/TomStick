@@ -1,4 +1,7 @@
 # TomStick
+
+(https://registry.platformio.org/libraries/dhanabhon/TomStick) [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
 A TomStick library is an Arduino library for simply controlling the axes of the joystick.
 
 Take control of your joystick with ease using the TomStick library - the ultimate solution for precise and simple axis control on Arduino.
