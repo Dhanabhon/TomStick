@@ -1,5 +1,6 @@
 /*
- * This file written by Tom Dhanabhon on Jan 14, 2023
+    TomStick.h - Library for controlling the axes of the joystick.
+    Created by Tom Dhanabhon, Jan 14, 2023.
 */
 
 #ifndef _____TomStick__
