@@ -37,7 +37,7 @@ class TomStick {
         int readRawAxisY(void);
         void calibrate(void);
         Direction onMove(void);
-        void setDeadzoneThreshold(int);
+        void setDeadZoneThreshold(int);
 
         JoystickInfo joystickInfo;
         

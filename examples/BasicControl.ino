@@ -12,6 +12,8 @@ void setup() {
     joystick.begin();
     // Calibreate the joystick center position
     joystick.calibrate();
+    // Set the dead zone threshold of the joystick between 0 - 100 (default: 50)
+    joystick.setDeadZoneThreshold(60);
 }
 
 void loop() {

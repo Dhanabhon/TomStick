@@ -43,7 +43,7 @@ void TomStick::calibrate() {
 
 /// @brief The threshold value, which represents the deadzone value of the joystick, should be set between 0 and 100.
 /// @param threshold 
-void TomStick::setDeadzoneThreshold(int threshold = 50) {
+void TomStick::setDeadZoneThreshold(int threshold = 50) {
     threshold = abs(threshold);
 
     if (threshold > 512) {
